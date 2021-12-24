@@ -1,7 +1,6 @@
-Preview our site:silly-austin-08f292.netlify.app
-
-
 # Getting Started with Create React App
+
+Preview our site : https://silly-austin-08f292.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
